@@ -20,7 +20,8 @@
 <img align="center" alt="native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
-Graduado em engenharia e apaixonado por tecnologia.
+
+## Graduado em engenharia e apaixonado por tecnologia.
 
 ## Últimos videos:
 
