@@ -49,29 +49,14 @@ Atualmente estudando e desenvolvendo:
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em destaque
 
-### 🤖 AI Automation
-Automação inteligente utilizando IA, workflows e integrações modernas.
-
-### 🌐 Local Business Automation
-Soluções digitais para negócios locais:
-- Google Business
-- WhatsApp Automation
-- SEO Local
-- Captação de Leads
-
-### 🎬 Recommendation System
-Sistema de recomendação utilizando Machine Learning e backend moderno.
-
----
-
-## 🎥 Projetos e Vídeos
-
-- [Coffee Delivery](https://youtu.be/NXz_H-fHY3c)
-- [Shop](https://youtu.be/TWlzZMjDC-4)
-- [StoryBook](https://youtu.be/bcfgIroVU3Q)
-- [Ignite Call](https://youtu.be/XfdWLaiPkL8)
+- **[fii-sentinel](https://github.com/junior10soares/fii-sentinel)** — Investidor autônomo de FIIs: coleta, análise e recomendação com IA.
+- **[pr-review-bot](https://github.com/junior10soares/pr-review-bot)** — GitHub Action de code review com IA (LangChain + OpenRouter), CI e dogfooding nos próprios repos.
+- **[atendimento-ai](https://github.com/junior10soares/atendimento-ai)** — SaaS de atendimento com IA generativa: RAG, multi-tenant e RBAC completos.
+- **[salao-agendamento-online](https://github.com/junior10soares/salao-agendamento-online)** — Plataforma de agendamento para salão de beleza, em uso real.
+- **[criar-conteudo](https://github.com/junior10soares/criar-conteudo)** — Gerador de conteúdo faceless (texto, imagem, carrossel, vídeo com avatar).
+- **[rag-neo4j-students](https://github.com/junior10soares/rag-neo4j-students)** — RAG sobre grafo de conhecimento com Neo4j.
 
 ---
 
