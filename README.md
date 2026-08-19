@@ -62,7 +62,7 @@ Atualmente estudando e desenvolvendo:
 
 ## 🌎 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-soares-4641b2124/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonjr-dev/)
 
 
 ---
